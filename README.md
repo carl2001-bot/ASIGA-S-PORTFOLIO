@@ -1,4 +1,4 @@
-# ASIGA-S-PORTFOLIO# Gobi Asiga - Portfolio Website
+# Gobi Asiga - Portfolio Website
 
 A modern, responsive portfolio website showcasing my academic background, skills, and professional experience in finance.
 
@@ -8,13 +8,13 @@ A modern, responsive portfolio website showcasing my academic background, skills
 
 ## 📋 About Me
 
-I'm Gobi Asiga, a recent Finance graduate from SUI University with a passion for financial analysis and investment strategies. This portfolio showcases my education, experience, and skills in the finance sector.
+I'm Gobi Asiga, a recent Finance graduate from USIU University with a passion for financial analysis and investment strategies. This portfolio showcases my education, experience, and skills in the finance sector.
 
 ## 🎯 What's Included
 
 - **Home** - Introduction with profile picture
 - **About Me** - Personal information and skills
-- **Education** - Academic background from SUI University
+- **Education** - Academic background from USIU University
 - **Experience** - Professional and volunteer work
 - **Contact** - Ways to get in touch with me
 
